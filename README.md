@@ -1,1 +1,1 @@
-![screen.gif](..%2F..%2FDesktop%2Fscreen.gif)
+![screen.gif](screen.gif)
